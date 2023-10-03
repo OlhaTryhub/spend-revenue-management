@@ -1,5 +1,3 @@
-# spend-revenue-management
-=======
 ## Results of implementation of the test task
 
 1. General revenues list
@@ -16,7 +14,7 @@ http://127.0.0.1:8000/spend/statistics/
 
 3. Revenues list with aggregation by date & name
 ```commandline
-http://127.0.0.1:8000/spend/statistics/
+http://127.0.0.1:8000/spend/aggregate-by-date-name/
 ```
 ![img_3.png](readme_images%2Fimg_3.png)
 4. Spends list with aggregation by date & name
